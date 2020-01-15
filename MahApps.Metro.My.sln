@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MahApps.Metro.Demo", "MahApps.Metro.Demo\MahApps.Metro.Demo.csproj", "{11722CB0-0113-423A-932B-FC0DECEC404C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MahApps.Metro.Caliburn.Demo", "MahApps.Metro.Caliburn.Demo\MahApps.Metro.Caliburn.Demo.csproj", "{A07E0BEB-A0B8-4D2F-90DE-95E4E1FEE856}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11722CB0-0113-423A-932B-FC0DECEC404C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11722CB0-0113-423A-932B-FC0DECEC404C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11722CB0-0113-423A-932B-FC0DECEC404C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11722CB0-0113-423A-932B-FC0DECEC404C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A07E0BEB-A0B8-4D2F-90DE-95E4E1FEE856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07E0BEB-A0B8-4D2F-90DE-95E4E1FEE856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07E0BEB-A0B8-4D2F-90DE-95E4E1FEE856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07E0BEB-A0B8-4D2F-90DE-95E4E1FEE856}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B75A388C-5277-43DB-9ADA-D47B96D7CA53}
+	EndGlobalSection
+EndGlobal
